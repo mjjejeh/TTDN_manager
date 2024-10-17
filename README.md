@@ -1,6 +1,6 @@
 Cài đặt bên Client
 
-1. mở Terminal điều hướng vào thư mục cliend: cd client
+1. mở Terminal điều hướng vào thư mục client: cd client
 
 2. Chạy npm i
 
