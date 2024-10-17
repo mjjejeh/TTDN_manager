@@ -6,5 +6,5 @@ Cài đặt bên Client
 
 3. Chạy npm start để chạy ứng dụng trên  http://localhost:3000
 
-4. Mở http://localhost:3000 để trong trình duyệt
+4. Mở http://localhost:3000 để chạy trong trình duyệt
 
